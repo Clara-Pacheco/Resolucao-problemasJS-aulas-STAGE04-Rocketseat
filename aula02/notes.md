@@ -69,5 +69,3 @@
     envolvendo a soma das variáveis- ele entende que a soma das variáveis é uma ação isolada no
     código (isolada do +)
     -- O + agora irá concatenar com a string o resultado do que existe dentro dos parênteses;
-
-
