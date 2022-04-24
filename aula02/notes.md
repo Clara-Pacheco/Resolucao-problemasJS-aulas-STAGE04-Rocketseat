@@ -48,11 +48,13 @@
     - Existem algumas maneiras de fazermos isso no JS e uma delas é envolver o valor da variável
       do tipo string em uma função de nome Number()- no caso de conversão de 'string' para 'número';  
 
-    - Number(): função CONSTRUTORA;
+    - Number(): função CONSTRUTORA para converter um dado em número;
         -- Dentro dela, precisamos passar um argumento, ou seja, o valor que será convertido para número;
         -- Number(numberOne)
         -- Number(numberTwo)
         -- Essa função construtora devolverá o mesmo valor da variável, mas de tipo diferente, agora numérico;
+      
+      - String(): funçao CONSTRUTORA para converter um dado em uma string;
 
 #### [] Atençao na ordem de precedência dos operadores!  
 
