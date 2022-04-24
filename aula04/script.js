@@ -17,9 +17,10 @@ let n1 = Number(prompt("Digite a primeira nota do aluno: "))
 let n2 = Number(prompt("Digite a segunda nota do aluno: "))
 let n3 = Number(prompt("Digite a terceira nota do aluno: "))
 let media = (n1 + n2 + n3)/3
+media = media.toFixed(2)
 if (media > 6) {
   alert("Parabéns " + nome + "!Sua média é " + media + " e você está aprovado!")
 }else {
-  alert("Infelizmente sua média de " +media+ " não foi necessária para aprovação, " + nome + ".Estude um pouco mais para a avaliação de recuperação")
+  alert("Infelizmente sua média de " +media + " não foi necessária para aprovação, " + nome + ".Estude um pouco mais para a avaliação de recuperação")
 
 }
