@@ -8,5 +8,3 @@
 let nome = prompt('Qual é o seu nome?')
 alert('Olá, ' + nome)
 
-/* 2-Solicite 2 números, faça a soma deles 
-  e apresente o resultado final so usuário */
