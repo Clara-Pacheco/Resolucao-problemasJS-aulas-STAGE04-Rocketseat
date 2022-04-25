@@ -7,7 +7,7 @@
 lista_supermercado = []
 
 for(let item = 0; item < 10; item++){
-  let itemName = prompt("Digite o nome do " + (item+1) + "o item")
+  let itemName = prompt("Digite o nome do " + (item+1) + "o biscoiitem")
   lista_supermercado[item] = itemName
 }
 
