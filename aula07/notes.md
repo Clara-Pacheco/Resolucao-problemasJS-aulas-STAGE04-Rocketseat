@@ -10,3 +10,8 @@ Perguntas a serem feitas:
 6. Qual é a saída, ou quais os dados de saída, esperada? (outputs)
 
 ## Ferramentas da linguagem que abordaremos...
+
+- [] Loop while
+- [] Arrays e funções de arrays
+- [] Condicional if/else
+- [] Template literals(strings)
